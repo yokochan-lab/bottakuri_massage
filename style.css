@@ -1,1 +1,120 @@
+li {
+  list-style: none;
+}
 
+.header {
+  background-color: #7f7eb8;
+  color: #fff;
+  height: 100px;
+  padding: 5px;
+}
+
+.header-logo {
+  font-size: 45px;
+  float: left;
+  padding: 15px 30px;
+}
+
+.header-list {
+  font-size: 15px;
+  float: left;
+}
+
+.header-list li{
+  float:left;
+  padding: 25px 10px;
+}
+
+.main {
+  padding: 15px 30px;
+}
+
+.copy-container h1 {
+  font-size: 60px;
+  color: #a04e90;
+}
+
+span {
+  color: #dbbc86;
+}
+
+.copy-container h2 {
+  font size: 30px;
+  color: #834e62;
+}
+
+.contents {
+  padding: 25px 30px 40px 30px;
+  height: 350px;
+}
+
+.contents-item {
+  float: left;
+}
+
+.contents-image {
+  height: 180px;
+  width: 180px;
+}
+
+.contents-item {
+  padding: 10px;
+}
+
+.price {
+  color: #d6ddf0;
+  font-size: 10px;
+  padding: 0 20px;
+}
+
+.menu {
+  padding: 0 20px;
+}
+
+.contact-form {
+  padding: 25px 30px;
+  height: 420px;
+}
+
+.section-title {
+  border-bottom: 2px solid #d6ddf0;
+  padding-bottom: 15px;
+}
+
+input, textarea {
+  width: 400px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+  width: 405px;
+}
+
+.forms {
+  padding: 0 5px;
+}
+
+.footer {
+  background-color: #82c0cd;
+  color: #fff;
+  height: 100px;
+}
+
+.footer-logo {
+  font-size: 18px;
+  float:left;
+  padding: 10px 20px;
+}
+
+.footer-list {
+  font-size: 12px;
+  float: right;
+  padding: 5px 75px;
+}
+
+.footer-list li {
+  padding-bottom: 5px;
+}
